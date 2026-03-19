@@ -1,8 +1,6 @@
 <img width="1528" height="859" alt="image" src="https://github.com/user-attachments/assets/852898f3-4902-49fa-acde-23204a77b861" /><img width="1528" height="859" alt="image" src="https://github.com/user-attachments/assets/d75fa8eb-d4f3-4818-acb7-468290be7361" /># 📊 HR Intelligence: Decoding Employee Attrition
 > **Transforming raw workforce data into actionable retention strategies.**
 
-![HR Analytics Dashboard Full View]
-
 ---
 
 ## 💡 The Business Case
